@@ -16,9 +16,9 @@ ScanForPay – A Barcode scanner for buying and Selling Products.
 
 # Features / Limitations
 
-* . There are three main pages on user interface (Shopkeeper,Holesaler,Customer)
-# . Your will need to login to see all the pages.
-# . After Login page select product for buy and click on pay.
-# . You can add,view,delete the product and can view inventory.
-# . You will see the payment page and scan the QR code or pay via Dabit card.
-# . After Payment successful you can see the transaction history and list of product.
+* There are three main pages on user interface (Shopkeeper,Holesaler,Customer)
+* Your will need to login to see all the pages.
+* After Login page select product for buy and click on pay.
+* You can add,view,delete the product and can view inventory.
+* You will see the payment page and scan the QR code or pay via Dabit card.
+* After Payment successful you can see the transaction history and list of product.
