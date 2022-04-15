@@ -1,3 +1,6 @@
+ScanForPay – A Barcode scanner for buying and Selling Products.
+
+
 # ScanForPay
 1. Download and install Android Studio and JDK.
 2. Create an Android Virtual Device (AVD) or can use mobile phone with the help of USB cable.
