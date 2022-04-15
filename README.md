@@ -22,3 +22,7 @@ ScanForPay – A Barcode scanner for buying and Selling Products.
 * You can add,view,delete the product and can view inventory.
 * You will see the payment page and scan the QR code or pay via Dabit card.
 * After Payment successful you can see the transaction history and list of product.
+
+# Puspose of this Project
+
+* I built this project just for educational purpose, and now I thought of sharing it to the people who need it. Show your support by starring this repository.
