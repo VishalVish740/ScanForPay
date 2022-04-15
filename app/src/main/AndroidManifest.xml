@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.justscanit" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.JustScanIt" >
+        <activity android:name=".AdapterClass" >
+        </activity>
+        <activity android:name=".WholesalerRegisterActivity" />
+        <activity android:name=".WholesalerActivity" />
+        <activity android:name=".Wholesaler" />
+        <activity android:name=".viewInventoryAdapter" />
+        <activity android:name=".viewInventoryActivity" />
+        <activity android:name=".ShopKeeper" />
+        <activity android:name=".ShopekeeperRegisterActivity" />
+        <activity android:name=".ShopekeeperLoginActivity" />
+        <activity android:name=".ScanItemActivity" />
+        <activity android:name=".ScanCodeActivitydel" />
+        <activity android:name=".ScanCodeActivitysearch" />
+        <activity android:name=".ScanCodeActivity" />
+        <activity android:name=".PhonePeActivity" />
+        <activity android:name=".PaymentGatewayActivity" />
+        <activity android:name=".MainActivitytp" />
+        <activity android:name=".deleteitemActivity" />
+        <activity android:name=".DashBoardActivity" />
+        <activity android:name=".CardPaymentActivity" />
+        <activity android:name=".CustShowProduct" />
+        <activity android:name=".AniActivity" />
+        <activity android:name=".AddProductActivity" />
+        <activity android:name=".SendFeedbackActivity" />
+        <activity android:name=".Products" />
+        <activity android:name=".CustomerRegisterActivity" />
+        <activity android:name=".ResetActivity" />
+        <activity android:name=".CustomerLoginActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

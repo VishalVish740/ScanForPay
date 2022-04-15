@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JustScanIt</string>
+    <string name="customer_login">customer_login</string>
+    <string name="reset_password">reset_password</string>
+    <string name="forget_password">forget_password</string>
+    <string name="register">register</string>
+    <string name="not_registered">not_register</string>
+    <string name="login">login</string>
+    <string name="enter_password">enter_password</string>
+    <string name="enter_email_id">enter_email_id</string>
+</resources>

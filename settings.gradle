@@ -1,0 +1,2 @@
+rootProject.name = "JustScanIt"
+include ':app'

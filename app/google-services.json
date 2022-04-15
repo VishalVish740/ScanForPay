@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943087048895",
+    "project_id": "justscanit-3fb5f",
+    "storage_bucket": "justscanit-3fb5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943087048895:android:e0bd7ea797176cc01f4e0a",
+        "android_client_info": {
+          "package_name": "com.example.justscanit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943087048895-5opsgfl8agl66vhiip5ruie3bs36c5p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI7Tczn34IksASg2qE0z4x6bRJzW_UDjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943087048895-5opsgfl8agl66vhiip5ruie3bs36c5p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
