@@ -15,4 +15,4 @@ ScanForPay – A Barcode scanner for buying and Selling Products.
 
 # Features / Limitations
 
-#. 
+# . 
